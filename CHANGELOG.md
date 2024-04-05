@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/codepainter/semantic-release-test/compare/v1.2.2...v1.3.0) (2024-04-05)
+
+
+### Features
+
+* add a feat ([26af107](https://github.com/codepainter/semantic-release-test/commit/26af1074c65b42bfa4b8aeeca0e68d25ee439edc))
+
 ## [1.2.2](https://github.com/codepainter/semantic-release-test/compare/v1.2.1...v1.2.2) (2024-04-05)
 
 
