@@ -6,6 +6,16 @@
 * fix a beta feature 2 ([d700efc](https://github.com/codepainter/semantic-release-test/commit/d700efcddc9ce1b39cb65bbdee669d2e05166ba1))
 * fix a beta feature 3 ([39aa7d6](https://github.com/codepainter/semantic-release-test/commit/39aa7d61ca1acf12d2bf5a942fb24316c96508dc))
 * fix a beta feature 4 ([19dbd66](https://github.com/codepainter/semantic-release-test/commit/19dbd66053330142194c670fe37c64c443c45adf))
+* fix a beta feature 5 ([64750db](https://github.com/codepainter/semantic-release-test/commit/64750db8a7fdc371cd1ca716d407a2cd4d3b1b16))
+
+# [1.4.0-beta.3](https://github.com/codepainter/semantic-release-test/compare/v1.4.0-beta.2...v1.4.0-beta.3) (2024-04-05)
+
+
+### Bug Fixes
+
+* fix a beta feature 2 ([d700efc](https://github.com/codepainter/semantic-release-test/commit/d700efcddc9ce1b39cb65bbdee669d2e05166ba1))
+* fix a beta feature 3 ([39aa7d6](https://github.com/codepainter/semantic-release-test/commit/39aa7d61ca1acf12d2bf5a942fb24316c96508dc))
+* fix a beta feature 4 ([19dbd66](https://github.com/codepainter/semantic-release-test/commit/19dbd66053330142194c670fe37c64c443c45adf))
 
 # [1.4.0-beta.3](https://github.com/codepainter/semantic-release-test/compare/v1.4.0-beta.2...v1.4.0-beta.3) (2024-04-05)
 
