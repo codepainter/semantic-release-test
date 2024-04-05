@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/codepainter/semantic-release-test/compare/v1.0.1...v1.1.0) (2024-04-05)
+
+
+### Features
+
+* add a small feature ([0d6f343](https://github.com/codepainter/semantic-release-test/commit/0d6f343857bb9e47755026698774a6ac7ae3b070))
+
 ## [1.0.1](https://github.com/codepainter/semantic-release-test/compare/v1.0.0...v1.0.1) (2024-04-05)
 
 
