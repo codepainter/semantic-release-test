@@ -1,3 +1,10 @@
+# [1.4.0-beta.1](https://github.com/codepainter/semantic-release-test/compare/v1.3.0...v1.4.0-beta.1) (2024-04-05)
+
+
+### Features
+
+* try a beta feature ([b3e57b6](https://github.com/codepainter/semantic-release-test/commit/b3e57b6ce50b97208a07f59eb364b13e75a45c7b))
+
 # [1.3.0](https://github.com/codepainter/semantic-release-test/compare/v1.2.2...v1.3.0) (2024-04-05)
 
 
