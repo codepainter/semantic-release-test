@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/codepainter/semantic-release-test/compare/v1.1.0...v1.1.1) (2024-04-05)
+
+
+### Bug Fixes
+
+* remove GH_TOKEN ([ca514d1](https://github.com/codepainter/semantic-release-test/commit/ca514d1fc028bb0cbd7c03ddb7394f9cb593985a))
+
 # [1.1.0](https://github.com/codepainter/semantic-release-test/compare/v1.0.1...v1.1.0) (2024-04-05)
 
 
