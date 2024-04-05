@@ -26,7 +26,9 @@ jobs:
         cache: 'pnpm'
 
     - name: Setup .releaserc
-      run: echo $(jq <.releaserc 'del(.plugins[] | select(. == "semantic-release-github-actions-tags"))') > .releaserc
+      run: 
+        - mv .releaserc .releaserc.bak
+        - jq < .releaserc.bak 'del(.plugins[] | select(. == "semantic-release-github-actions-tags"))' | jq '.' > .releaserc
 
     - name: Install dependencies
       run: pnpm i
@@ -35,4 +37,3 @@ jobs:
       run: pnpm semantic-release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
