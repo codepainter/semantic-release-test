@@ -1,3 +1,13 @@
+# [1.0.0](https://github.com/codepainter/semantic-release-test/compare/v0.3.0...v1.0.0) (2024-04-05)
+
+
+* Add new awesome breaking changes feature ([c5b4f45](https://github.com/codepainter/semantic-release-test/commit/c5b4f4577bf5ee92a0961dcd0ee299a90a214b0f))
+
+
+### BREAKING CHANGES
+
+* it breaks something
+
 # [0.3.0](https://github.com/codepainter/semantic-release-test/compare/v0.2.0...v0.3.0) (2024-04-05)
 
 
