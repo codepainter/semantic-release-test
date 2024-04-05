@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/codepainter/semantic-release-test/compare/v1.1.1...v1.2.0) (2024-04-05)
+
+
+### Features
+
+* add semantic-release-github-actions-tags plugin ([40abab6](https://github.com/codepainter/semantic-release-test/commit/40abab638fcf12eddb8b557ebf4e3ed8e07e6f7c))
+
 ## [1.1.1](https://github.com/codepainter/semantic-release-test/compare/v1.1.0...v1.1.1) (2024-04-05)
 
 
