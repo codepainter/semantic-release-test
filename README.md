@@ -5,3 +5,4 @@ another one
 bug fix
 add a small feature
 add a small fix
+add another small fix
