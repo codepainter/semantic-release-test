@@ -1,9 +1,9 @@
 # .github/workflows/semantic-release.yml
-name: Semantic Release
+name: Alpha-Beta Release
 
 on:
   push:
-    branches: [ master, next, beta ]
+    branches: [ alpha, beta ]
 
 jobs:
   release:
@@ -24,6 +24,9 @@ jobs:
       with: 
         node-version-file: '.nvmrc'
         cache: 'pnpm'
+
+    - name: Setup .releaserc
+      run: echo (jq <.releaserc 'del(.plugins[] | select(. == "semantic-release-github-actions-tags"))') > .releaserc
 
     - name: Install dependencies
       run: pnpm i
