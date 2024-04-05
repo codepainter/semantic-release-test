@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/codepainter/semantic-release-test/compare/v1.2.0...v1.2.1) (2024-04-05)
+
+
+### Bug Fixes
+
+* add a small fix ([69cdc82](https://github.com/codepainter/semantic-release-test/commit/69cdc821ea03e00df37d4ea38d3320c5f670ebeb))
+
 # [1.2.0](https://github.com/codepainter/semantic-release-test/compare/v1.1.1...v1.2.0) (2024-04-05)
 
 
